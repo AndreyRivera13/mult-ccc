@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.list-group-item {
+    transition: transform 0.3s;
+}
+
+.list-group-item:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
